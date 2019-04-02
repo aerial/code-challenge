@@ -1,0 +1,9 @@
+include "notification-service"
+
+include "user-service"
+include "user-service-api"
+
+include "template-service"
+include "template-service-api"
+
+include "discovery-service"
